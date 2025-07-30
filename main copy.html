@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+
+<body>
+    <div id="quiz">
+        <h1 id="quiz-title">Quiz</h1>
+        <div id="question-container"></div>
+        <div id="result"></div>
+    </div>
+    
+
+    <script src="/example_animals/data.js"></script>
+    <script src="/main.js"></script>
+    <script>
+        document.getElementById("quiz-title").innerText = quizData.title;
+        new PersonalityQuiz(quizData, "question-container", "result");
+    </script>
+</body>
+
+</html>
