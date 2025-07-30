@@ -7,6 +7,11 @@ An easily editable personality quiz for your own use or projects.
 - Easy to customize
 - Lightweight and beginner-friendly
 
+how your quiz can look like:
+
+https://heegarthur.github.io/quiz-personality/
+
+
 ## How to Use
 
 1. **Create a new folder**  
