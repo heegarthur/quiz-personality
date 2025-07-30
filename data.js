@@ -1,5 +1,6 @@
 const quizData = {
-  title: "Which Video Game Character Are You?",
+  // you can edit everything between "" 
+  title: "Which Video Game Character Are You?", 
   results: {
     "Mario": {
       name: "Mario",
