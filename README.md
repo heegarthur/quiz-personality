@@ -25,3 +25,4 @@ https://heegarthur.github.io/quiz-personality/
    Everything is clearly structured and self-explanatory
 
    just follow the format to customize your quiz content.
+   you can also use the example folder for a  "which pet do you need" quiz
